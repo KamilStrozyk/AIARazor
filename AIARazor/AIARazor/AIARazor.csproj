@@ -93,6 +93,7 @@
   <ItemGroup>
     <Content Include="Name.cshtml" />
     <None Include="packages.config" />
+    <Content Include="Rules.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
